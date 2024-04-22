@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{99b73dac-e759-4209-9164-7f74f3843337}</ProjectGuid>
-    <RootNamespace>My0126IntoOOP</RootNamespace>
+    <ProjectGuid>{73b39684-ccc9-47e7-a3b0-85bc4f7b38ab}</ProjectGuid>
+    <RootNamespace>My0126IntoOOP2</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,8 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="0126_IntoOOP.cpp" />
-    <ClCompile Include="FileName.cpp" />
+    <ClCompile Include="0126_IntoOOP2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

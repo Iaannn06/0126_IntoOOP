@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="0126_IntoOOP.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="FileName.cpp">
+    <ClCompile Include="0126_IntoOOP2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
