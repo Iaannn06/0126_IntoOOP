@@ -41,11 +41,22 @@ class MataKuliah {
 
 int main() {
 	Mahasiswa mhs;
-	Matakuliah mk;
+	MataKuliah mk;
 
 	mhs.nama = "Budi";
 	mhs.umur = "20";
 	mhs.jurusan = "Teknik Informatika";
 	mhs.output();
 
+	mk.input();
+	mk.output();
+
+	return 0;
 }
+
+#include <iostream>
+using namespace std;
+
+class bangundatar {
+   private:
+};
